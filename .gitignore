@@ -1,5 +1,5 @@
-_.nikolay-eremeev.com_private_key.key
 .vscode/
-nikolay-eremeev.com_ssl_certificate.cer
+key.key
+certificate.cer
 build/
 node_modules/
